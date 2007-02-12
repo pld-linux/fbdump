@@ -1,5 +1,5 @@
 Summary:	fbdump - takes screenshots using the framebuffer device
-Summary(pl):	Narzêdzie zrzucaj±ce zawarto¶æ ekranu do pliku poprzez framebuffer
+Summary(pl.UTF-8):   NarzÄ™dzie zrzucajÄ…ce zawartoÅ›Ä‡ ekranu do pliku poprzez framebuffer
 Name:		fbdump
 Version:	0.4.1
 Release:	1
@@ -16,11 +16,11 @@ saves a PPM image file. You can use it for making screenshots of
 virtually any application, from traditional text applications to your
 X Window System desktop, as well as framebuffer applications.
 
-%description -l pl
-fbdump czyta urz±dzenie framebuffera (/dev/fb*) lub zrzut z niego i
-zapisuje zawarto¶æ do pliku graficznego PPM. Programu mo¿na u¿ywaæ
-do robienia zrzutów ekranu z ka¿dej aplikacji, od tradycyjnych
-aplikacji tekstowych do ekranu X Window System, a tak¿e aplikacji
+%description -l pl.UTF-8
+fbdump czyta urzÄ…dzenie framebuffera (/dev/fb*) lub zrzut z niego i
+zapisuje zawartoÅ›Ä‡ do pliku graficznego PPM. Programu moÅ¼na uÅ¼ywaÄ‡
+do robienia zrzutÃ³w ekranu z kaÅ¼dej aplikacji, od tradycyjnych
+aplikacji tekstowych do ekranu X Window System, a takÅ¼e aplikacji
 framebufferowych.
 
 %prep
